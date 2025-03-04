@@ -29,15 +29,15 @@ Welcome to the Python Weather App! This application allows you to retrieve and d
     ```bash
     pip install requests python-dotenv rich
 
-3.** Obtain an OpenWeatherMap API key:**
+3. **Obtain an OpenWeatherMap API key:**
 
-- Register at OpenWeatherMap to get a free API key.
+    - Register at OpenWeatherMap to get a free API key.
 
 4. **Set up environment variables:**
 
-Create a `.env` file in the project directory and add your API key:
+    Create a `.env` file in the project directory and add your API key:
 
-    WEATHER_API_KEY=your_api_key_here
+       WEATHER_API_KEY=your_api_key_here
 
 ## Usage
 
@@ -46,9 +46,9 @@ Create a `.env` file in the project directory and add your API key:
     ```bash
     python weather_app.py
 
-2.** Enter the name of the city when prompted:**
+2. **Enter the name of the city when prompted:**
 
-    Enter city: Amsterdam
+       Enter city: Amsterdam
 
 3. **View the weather information displayed:**
 
