@@ -24,8 +24,9 @@ Welcome to the Python Weather App! This application allows you to retrieve and d
    git clone https://github.com/larevolucia/python-weather.git
    cd python-weather
 
-2.** Install the required libraries:**
-
+2. **Install the required libraries:**
+   
+    ```bash
     pip install requests python-dotenv rich
 
 3.** Obtain an OpenWeatherMap API key:**
